@@ -1,3 +1,48 @@
 h1{
-	color: hotpink;
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+	color: skyblue;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h3, h4, h5 {
+	color: lightpink;
+	font-family: 'Lora', serif;
+
+}
+body{
+	font-family:'Lora', serif;
+background-color: skyblue;
+}
+div{
+	background-color: whitesmoke;
+	text-align: center;
+	padding: 24px;
+	width: 70%;
+	margin: 16px auto;
+	border-radius: 6px;
+	box-shadow: 1px 1px 5px 2px  #000000b5;
+
+}
+#rim{
+	width: 200px;
+	border-radius: 50%;
+	border:  1px solid black;
+	object-fit: cover;
+}
+a {
+	text-decoration: none;
+}
+.lolita {
+	background-color: skyblue;
+	color: whitesmoke;
+	padding: 5px 18px;
+	border-radius: 30px;
+	font-weight: bolder;
+	display: block;
+	width: 20%;
+	margin: 0 auto;
+	border: 1px black;
+	transition: 1s;
 }
